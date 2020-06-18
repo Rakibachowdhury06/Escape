@@ -160,9 +160,10 @@ header{}
 	color: #777777;
 }
 .tree-icon{
-	width:27%;
+	width:25%;
 	float:right;
 	padding-top:82px;
+	padding-bottom:30px;
 	
 }
 .tree-icon img{
@@ -204,9 +205,10 @@ header{}
 	color: #777777;
 }
 .users-icon{
-	width:32%;
+	width:30%;
 	float:left;
 	padding-top:82px;
+	padding-bottom:50px;
 	
 }
 .users-icon img{
